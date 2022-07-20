@@ -13,4 +13,5 @@ To build the code, run go build
 To run the server, run go run main.go
 
 # OUTPUTS - 
-![output1]( "output1")
+![output1](/CRUDAPI_output/output1.jpg "output1")
+![output2](/CRUDAPI_output/output2.jpg "output2")
